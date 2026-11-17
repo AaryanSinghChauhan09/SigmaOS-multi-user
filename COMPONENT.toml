@@ -3,7 +3,7 @@ name = "SigmaOS-multi-user"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "multi-user component"
+description = "multi user"
 upstream = []
 
 [contract]
